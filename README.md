@@ -2,8 +2,7 @@
 
 I am a first-year Computer Science student from Egypt and an
 aspiring Penetration Tester and Systems Programmer. My daily
-workflow is entirely terminal-based, powered by a fully
-customized Arch Linux setup that I maintain myself.
+workflow is entirely terminal-based, powered by an Arch Linux setup that I maintain myself.
 
 And yes, **I use Arch BTW.** 🐧
 
