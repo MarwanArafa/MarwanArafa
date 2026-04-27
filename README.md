@@ -36,7 +36,7 @@ vulnerability labs
 
 ### 🛠️ Languages & Tools
 
-- **Languages:** C, C++, Python, Bash, JavaScript, SQL, Lua
+- **Languages:** C, C++, Python, Bash, Java, JavaScript, SQL, Lua
 - **OS:** Arch Linux (daily driver)
 - **Tools:** Git, Vim, Tmux, UFW, Fail2Ban, Nmap
 - **Interests:** Penetration Testing, Systems Programming,
