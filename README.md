@@ -10,10 +10,10 @@ And yes, **I use Arch BTW.** 🐧
 
 ### 🗺️ My Current Roadmap
 
-- **Phase 1 (Current):** CS50 SQL + Networking & Skills PDFs
+- **Phase 1:** CS50 SQL + Networking & Skills PDFs
 - **Phase 2:** SOCKS5 Proxy Server (CS50x Final Project)
 - **Phase 3:** CS50w — Web Programming (Django, JS, React)
-- **Phase 4:** PortSwigger Web Security Academy — full web
+- **Phase 4 (Current):** PortSwigger Web Security Academy — full web
 pentesting path with Rana Khalil
 - **Phase 5:** Mobile & Application Pentesting
 - **Phase 6:** Rethinking — Network Pentesting or Malware
